@@ -1,0 +1,861 @@
+
+.Mytasks_Mytasks {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+	border-radius: 80.64px;
+	border: 3px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Group1 {
+	position: absolute;
+	left: 120.96px;
+	top: 241.92px;
+	width: 940.8px;
+	height: 396.47999999999996px;
+}
+.Mytasks_Mytasks .Group1 .Frame14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 594.72px;
+	height: 248.64px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Group1 .Frame14 .Mytasks_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 23.52px;
+	width: 594.72px;
+	height: 161.28px;
+	color: rgba(0,0,0,0.90);
+	font-family: Inter;
+	font-size: 134.4px;
+	font-weight: 700;
+	line-height: 157.5px;
+}
+.Mytasks_Mytasks .Group1 .Frame14 ._6tasksduetoday {
+	position: relative;
+	flex: none;
+	margin-bottom: 23.52px;
+	width: 467.03999999999996px;
+	height: 63.839999999999996px;
+	color: rgba(0,0,0,0.30);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 {
+	position: absolute;
+	left: 0px;
+	top: 329.28px;
+	width: 940.8px;
+	height: 67.2px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 67.2px;
+	height: 67.2px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .Design {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 184.79999999999998px;
+	height: 63.839999999999996px;
+	color: rgba(95,64,221,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_1 {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 67.2px;
+	height: 67.2px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_1 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .Development {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 352.8px;
+	height: 63.839999999999996px;
+	color: rgba(221,64,168,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 700;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_2 {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 67.2px;
+	height: 67.2px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_2 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_3 {
+	position: relative;
+	flex: none;
+	margin-right: 40.32px;
+	width: 67.2px;
+	height: 67.2px;
+}
+.Mytasks_Mytasks .Group1 .Frame15 .bicheckcirclefill_3 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Mytasks_Mytasks .Card {
+	position: absolute;
+	left: 120.96px;
+	top: 809.76px;
+	width: 1128.96px;
+	height: 641.76px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 80.64px;
+	padding-right: 80.64px;
+	padding-bottom: 80.64px;
+	padding-left: 80.64px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	background: rgba(255,255,255,1.00);
+	border-radius: 26.88px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Card .Frame12 {
+	position: relative;
+	flex: none;
+	width: 759.36px;
+	height: 147.84px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card .Frame12 .Rectangle1 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 20.16px;
+	background: rgba(95,64,221,1.00);
+	border-radius: 13.44px;
+}
+.Mytasks_Mytasks .Card .Frame12 .Navigationissueinthemilestone {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 759.36px;
+	height: 147.84px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 60.48px;
+	font-weight: 700;
+	line-height: 70.875px;
+}
+.Mytasks_Mytasks .Card .Frame13 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 {
+	position: relative;
+	flex: none;
+	height: 134.4px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame1 {
+	position: relative;
+	flex: none;
+	width: 228.48px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame1 .Ellipse3 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame1 .Ellipse4 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame8 {
+	position: relative;
+	flex: none;
+	width: 198.23999999999998px;
+	height: 63.839999999999996px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame8 .radixiconstimer {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 50.4px;
+	height: 50.4px;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame8 .radixiconstimer .Vector_4 {
+	position: absolute;
+	left: 2.8555078125px;
+	top: 2.8560205078125px;
+	width: 88.6669921875%;
+	height: 88.66668701171875%;
+}
+.Mytasks_Mytasks .Card .Frame13 .Frame9 .Frame8 ._1day {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 134.4px;
+	height: 63.839999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Card .akariconschevrondown {
+	position: relative;
+	flex: none;
+	width: 53.76px;
+	height: 53.76px;
+}
+.Mytasks_Mytasks .Card .akariconschevrondown .Vector_5 {
+	position: absolute;
+	left: 8.95986328125px;
+	top: 20.16px;
+	width: 66.66641235351562%;
+	height: 33.33334922790527%;
+}
+.Mytasks_Mytasks .Card_1 {
+	position: absolute;
+	left: 120.96px;
+	top: 1525.44px;
+	width: 1128.96px;
+	height: 638.4px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 80.64px;
+	padding-right: 80.64px;
+	padding-bottom: 80.64px;
+	padding-left: 80.64px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	background: rgba(255,255,255,1.00);
+	border-radius: 26.88px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Card_1 .Frame12_1 {
+	position: relative;
+	flex: none;
+	width: 759.36px;
+	height: 221.76px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_1 .Frame12_1 .Navigationissueinthemilestone_1 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 759.36px;
+	height: 221.76px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 60.48px;
+	font-weight: 700;
+	line-height: 70.875px;
+}
+.Mytasks_Mytasks .Card_1 .Frame12_1 .Rectangle1_1 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 20.16px;
+	background: rgba(221,64,168,1.00);
+	border-radius: 13.44px;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame1_1 {
+	position: relative;
+	flex: none;
+	width: 322.56px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame1_1 .Ellipse2 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame1_1 .Ellipse3_1 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame1_1 .Ellipse5 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame8_1 {
+	position: relative;
+	flex: none;
+	width: 198.23999999999998px;
+	height: 63.839999999999996px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame8_1 .radixiconstimer_1 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 50.4px;
+	height: 50.4px;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame8_1 .radixiconstimer_1 .Vector_6 {
+	position: absolute;
+	left: 2.8555078125px;
+	top: 2.8560205078125px;
+	width: 88.6669921875%;
+	height: 88.66678873697916%;
+}
+.Mytasks_Mytasks .Card_1 .Frame13_1 .Frame9_1 .Frame8_1 ._1day_1 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 134.4px;
+	height: 63.839999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Card_1 .akariconschevrondown_1 {
+	position: relative;
+	flex: none;
+	width: 53.76px;
+	height: 53.76px;
+}
+.Mytasks_Mytasks .Card_1 .akariconschevrondown_1 .Vector_7 {
+	position: absolute;
+	left: 8.95986328125px;
+	top: 20.16px;
+	width: 66.66641235351562%;
+	height: 33.333396911621094%;
+}
+.Mytasks_Mytasks .Card_2 {
+	position: absolute;
+	left: 120.96px;
+	top: 2241.12px;
+	width: 1128.96px;
+	height: 638.4px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 80.64px;
+	padding-right: 80.64px;
+	padding-bottom: 80.64px;
+	padding-left: 80.64px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	background: rgba(255,255,255,1.00);
+	border-radius: 26.88px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Card_2 .Frame12_2 {
+	position: relative;
+	flex: none;
+	width: 759.36px;
+	height: 147.84px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_2 .Frame12_2 .Rectangle1_2 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 20.16px;
+	background: rgba(151,71,255,1.00);
+	border-radius: 13.44px;
+}
+.Mytasks_Mytasks .Card_2 .Frame12_2 .Navigationissueinthemilestone_2 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 759.36px;
+	height: 147.84px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 60.48px;
+	font-weight: 700;
+	line-height: 70.875px;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: flex-end;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 312.47999999999996px;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame1_2 {
+	position: relative;
+	flex: none;
+	margin-right: 285.59999999999997px;
+	width: 416.64px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame1_2 .Ellipse2_1 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame1_2 .Ellipse3_2 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame1_2 .Ellipse4_1 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame1_2 .Ellipse5_1 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame8_2 {
+	position: relative;
+	flex: none;
+	margin-right: 285.59999999999997px;
+	width: 198.23999999999998px;
+	height: 63.839999999999996px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame8_2 .radixiconstimer_2 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 50.4px;
+	height: 50.4px;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame8_2 .radixiconstimer_2 .Vector_8 {
+	position: absolute;
+	left: 2.8555078125px;
+	top: 2.85591796875px;
+	width: 88.6669921875%;
+	height: 88.66658528645833%;
+}
+.Mytasks_Mytasks .Card_2 .Frame13_2 .Frame9_2 .Frame8_2 ._1day_2 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 134.4px;
+	height: 63.839999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Card_2 .akariconschevrondown_2 {
+	position: relative;
+	flex: none;
+	width: 53.76px;
+	height: 53.76px;
+}
+.Mytasks_Mytasks .Card_2 .akariconschevrondown_2 .Vector_9 {
+	position: absolute;
+	left: 8.95986328125px;
+	top: 20.16px;
+	width: 66.66641235351562%;
+	height: 33.33320617675781%;
+}
+.Mytasks_Mytasks .Card_3 {
+	position: absolute;
+	left: 120.96px;
+	top: 2953.44px;
+	width: 1128.96px;
+	height: 641.76px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 80.64px;
+	padding-right: 80.64px;
+	padding-bottom: 80.64px;
+	padding-left: 80.64px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	background: rgba(255,255,255,1.00);
+	border-radius: 26.88px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Card_3 .Frame12_3 {
+	position: relative;
+	flex: none;
+	width: 759.36px;
+	height: 147.84px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_3 .Frame12_3 .Navigationissueinthemilestone_3 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 759.36px;
+	height: 147.84px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 60.48px;
+	font-weight: 700;
+	line-height: 70.875px;
+}
+.Mytasks_Mytasks .Card_3 .Frame12_3 .Rectangle1_3 {
+	position: relative;
+	flex: none;
+	margin-right: 413.28px;
+	width: 20.16px;
+	background: rgba(221,64,168,1.00);
+	border-radius: 13.44px;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 {
+	position: relative;
+	flex: none;
+	width: 900.48px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame1_3 {
+	position: relative;
+	flex: none;
+	width: 322.56px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame1_3 .Ellipse2_2 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame1_3 .Ellipse3_3 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame1_3 .Ellipse5_2 {
+	position: relative;
+	flex: none;
+	margin-right: -40.32px;
+	width: 120.96px;
+	height: 120.96px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	background-size: cover;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame8_3 {
+	position: relative;
+	flex: none;
+	width: 198.23999999999998px;
+	height: 63.839999999999996px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame8_3 .radixiconstimer_3 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 50.4px;
+	height: 50.4px;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame8_3 .radixiconstimer_3 .Vector_10 {
+	position: absolute;
+	left: 2.8555078125px;
+	top: 2.85591796875px;
+	width: 88.6669921875%;
+	height: 88.66658528645833%;
+}
+.Mytasks_Mytasks .Card_3 .Frame13_3 .Frame9_3 .Frame8_3 ._1day_3 {
+	position: relative;
+	flex: none;
+	margin-right: 13.44px;
+	width: 134.4px;
+	height: 63.839999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 500;
+	line-height: 63px;
+}
+.Mytasks_Mytasks .Card_3 .akariconschevrondown_3 {
+	position: relative;
+	flex: none;
+	width: 53.76px;
+	height: 53.76px;
+}
+.Mytasks_Mytasks .Card_3 .akariconschevrondown_3 .Vector_11 {
+	position: absolute;
+	left: 8.95986328125px;
+	top: 20.16px;
+	width: 66.66641235351562%;
+	height: 33.33320617675781%;
+}
+.Mytasks_Mytasks .Frame17 {
+	position: absolute;
+	left: 0px;
+	top: 2691.36px;
+	width: 1438.08px;
+	height: 416.64px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 141.12px;
+	padding-right: 275.52px;
+	padding-bottom: 141.12px;
+	padding-left: 275.52px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+	background: rgba(255,255,255,1.00);
+	border: 3px solid rgba(0,0,0,1);
+}
+.Mytasks_Mytasks .Frame17 .Frame16 {
+	position: relative;
+	flex: none;
+	width: 887.04px;
+	height: 134.4px;
+	display: flex;
+	box-sizing: border-box;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .fa6solidlistul {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 134.4px;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .fa6solidlistul .Vector_12 {
+	position: absolute;
+	left: 4.2px;
+	top: 12.6px;
+	width: 96.875%;
+	height: 81.25%;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .codicongraph {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 134.4px;
+	height: 134.4px;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .codicongraph .Vector_13 {
+	position: absolute;
+	left: 8.4px;
+	top: 0px;
+	width: 87.5%;
+	height: 87.5%;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .cisettings {
+	position: relative;
+	flex: none;
+	margin-right: 241.92px;
+	width: 134.4px;
+	height: 134.4px;
+}
+.Mytasks_Mytasks .Frame17 .Frame16 .cisettings .Vector_14 {
+	position: absolute;
+	left: 13.44px;
+	top: 10.08px;
+	width: 80.8477783203125%;
+	height: 83.33328247070312%;
+}
